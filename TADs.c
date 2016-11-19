@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "TADs.h"
+//#include "TADs.h"
 
 TVetor* inicializavector(int tamanho){
   int i;
