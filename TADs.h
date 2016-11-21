@@ -3,12 +3,12 @@ typedef struct{
 }TItem;
 
 typedef struct{
-	TItem* vector;
+	TItem* Vector;
 	int tamanho;
 }TVetor;
 
 typedef struct{
-	TItem* vector;
+	TItem* Vector;
 	int topo, tamanho;
 }TPilha;
 
